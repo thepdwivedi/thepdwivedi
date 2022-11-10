@@ -1,7 +1,9 @@
 ### Hi there 👋
 Please visit my profile for more information. 
 
-https://thepdwivedi.github.io/
+- Personal Profile: https://thepdwivedi.github.io/
+- Salesforce Trailblazer: https://trailblazer.me/id/thepdwivedi
+- Linkedin: https://www.linkedin.com/in/thepdwivedi/
 
 <!--
 **thepdwivedi/thepdwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
