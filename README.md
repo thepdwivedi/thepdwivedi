@@ -1,4 +1,7 @@
 ### Hi there 👋
+Please visit my profile for more information. 
+
+https://thepdwivedi.github.io/
 
 <!--
 **thepdwivedi/thepdwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
